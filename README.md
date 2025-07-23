@@ -1,7 +1,7 @@
 🚀 Full Stack Developer | 🧠 Lifelong Learner | 🌍 Based in Germany
 
 I’m focused on creating real-world applications with modern technologies like Angular, Next.js, TypeScript, and .NET Core.  
-My goal is to build tools that help people — such as the **IT4All Platform** for trainees.
+My goal is to build tools that help people.
 
 ---
 
