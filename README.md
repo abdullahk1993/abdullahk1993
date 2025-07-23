@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Abdullah Khorassany
-
 🚀 Full Stack Developer | 🧠 Lifelong Learner | 🌍 Based in Germany
 
 I’m focused on creating real-world applications with modern technologies like Angular, Next.js, TypeScript, and .NET Core.  
